@@ -1,4 +1,4 @@
-
+visual source code 에서 터미널 오픈: ctrl + `
 ahn30@DESKTOP-7BI9T50 MINGW64 /c/STUDY_JS (master)
 $ git init
 Reinitialized existing Git repository in C:/STUDY_JS/.git/
@@ -120,7 +120,7 @@ $ git config --global user.email "ahn300@gmail.com"
 
 ahn30@DESKTOP-7BI9T50 MINGW64 /c/STUDY_JS (master)
 $ git commit -m "second"
-[master (root-commit) 0c56e3e] second
+[master (root-commit) 0c56e3e] secondad
  5 files changed, 55 insertions(+)
  create mode 100644 gitTest.txt.txt
  create mode 100644 index.css
